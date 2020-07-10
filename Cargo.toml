@@ -1,8 +1,11 @@
 [package]
 name = "libusb-native"
 version = "0.1.0"
+description = "Rust native libusb-1.0"
 authors = ["Захаров Константин Иванович <zaharov@prosoftsystems.ru>"]
+license = "MIT"
 edition = "2018"
+keywords = [ "libusb", "usb", "hardware" ]
 
 [dependencies]
 libc = "0.2"
