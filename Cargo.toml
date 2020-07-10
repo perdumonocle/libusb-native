@@ -1,0 +1,8 @@
+[package]
+name = "libusb-native"
+version = "0.1.0"
+authors = ["Захаров Константин Иванович <zaharov@prosoftsystems.ru>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2"
